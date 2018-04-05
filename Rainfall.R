@@ -38,3 +38,5 @@ adf.test(diff(rain.winter.ts))
 par (mfrow=c(2,1))
 acf(diff(rain.winter.ts), main='Autocorrelation function')
 pacf(diff(rain.winter.ts), main='Partial Autocorrelation function')
+
+# second commit
